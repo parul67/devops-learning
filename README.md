@@ -1,5 +1,3 @@
-90 days DevOps learning journey
-
 # DevOps Learning Journey 🚀
 
 This repository contains my day-wise DevOps learning notes and projects.
