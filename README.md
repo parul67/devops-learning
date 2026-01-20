@@ -3,7 +3,8 @@
 This repository contains my day-wise DevOps learning notes and projects.
 
 ## Topics Covered
-- Linux
+1. Linux
+   history of Linux , Unix , Kernel , Linux Distribution(Distros) , Distros Families
 - Git & GitHub
 - AWS
 - Docker
