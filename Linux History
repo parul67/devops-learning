@@ -1,0 +1,30 @@
+HISTORY :-
+It was a highly ambitious collaboration started in 1964 between MIT, Bell Laboratories, and General Electric (GE). 
+The goal was to create a "computer utility"—a multitasking, multi-user operating system that could serve an entire city with computing power, much like a telephone or electric company. 
+After some time this idea was withdraws due to pressure and thoughts like it's not possible.but, there are two people named DENNIS RITCHIE AND KEN THOMPSON still try to built something like that.So they built a operating system which is called UNICS(UNIPLEXED INFORMATION AND COMPUTING SERVICES).
+In 1975 there was a version released UNIX v6 which is very popular.
+
+WHAT IS UNIX ?
+So basically UNIX is a operating system which is free to use and it is a powerful, multiuser,multi-tasking OS ,which serves as the foundation of many modern operating systems.
+
+WHEN LINUX WAS INTRODUCED AND WHY ?
+So as time goes there are so many operating systems was comes into the market like IBM-AIX , SUN Solaris, Apple-Mac,etc. and all are paid. So IN 1991 ,LINUS TORVALD was inspired by ANDREW TANENBAUM(TEACHER),who builts a OS named MINUX to show there students how to built own OS , then LINUS TORVALD built his own OS named LINUX.
+WHAT IS LINUX ?
+LINUX is an open source kernel. 
+Yes, LINUX is not a OS but it is a kernel(core part of an OS),managing system  resources and communication between hardware and software.
+Additional information :-
+Between 1991 and 1995, there was an movement called "FREE SOFTWARE MOVEMENT",because all the big companies charges very high for using there OS. So, there was an software 'GNU' which combined with the LINUX and make s complete OS.
+
+Now linux have distro families like RHEL,FEDORA,DEBIAN,OTHERS and each family consists there own individual distros.
+There are two types of Operating System:-
+1. COMMAND LINE INTERFACE (LINUX MOSTLY USED)
+2. GRAPHICAL USER INTERFACE(WINDOWA MOSTLY USED)
+
+LINUX Features :-
+Open source code
+It is secure 
+Simplified updated for all installed software
+Ligth weight -> less RAM consumption
+Multiuser and Multi-tasking
+Multiple distribution -> RHEL,Debian
+
